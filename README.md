@@ -12,8 +12,6 @@ pip install streamlit plotly numpy scikit-learn pandas
 streamlit run app.py
 ```
 
-Opens at **http://localhost:8501**
-
 ---
 
 ## What's Inside
